@@ -15,7 +15,12 @@ Everything was wrapped in Webpack.
 ## Install:
 ```
 npm install
+```
 
+## Use:
+```
+npm run build
+npm run start 
 ```
 
 ENjoY :smiley:
